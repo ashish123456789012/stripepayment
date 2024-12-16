@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "675f3a4c36a60ef433ff5bfb"
+  },
+  "name": "Super Admin",
+  "email": "superadmin@example.com",
+  "password": "$2b$10$vT5fUBnLWXFTNec.NUjCpudPgP9VrqSnL2haX89KhAzjAIAaITxKO",
+  "role": "Admin",
+  "plan": [],
+  "otherUsers": [],
+  "subscriptionAdmin": true,
+  "__v": 0
+}]
